@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitDemoApp2_PI", "GitDemoApp2_PI\GitDemoApp2_PI.csproj", "{03F21708-F960-454D-9FDF-2C85FFCE3D22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03F21708-F960-454D-9FDF-2C85FFCE3D22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03F21708-F960-454D-9FDF-2C85FFCE3D22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03F21708-F960-454D-9FDF-2C85FFCE3D22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03F21708-F960-454D-9FDF-2C85FFCE3D22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5CC32EA-67A5-4B92-9043-ED246BBC8F18}
+	EndGlobalSection
+EndGlobal
